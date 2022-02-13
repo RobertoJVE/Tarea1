@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Ubuntu+Mono&display=swap');
+
+body {
+        background: rgb(5,0,36);
+    background: linear-gradient(90deg, rgba(5,0,36,1) 15%, rgba(126,22,22,1) 50%, rgba(121,9,73,1) 100%)
+
+}
+
+aside {
+    color: lightslategray;
+    font-size: 2em;
+
+}
+
+img {
+    margin: 0;
+    cursor: pointer;
+}
+
+p {
+    color: white;
+    right: 0%;
+}
+
+nav {
+    color: white;
+    background: rgb(5,0,36);
+    background: linear-gradient(90deg, rgba(5,0,36,1) 40%, rgba(126,22,22,1) 75%);
+    width: 50%;
+    left: 0;
+    margin: 0%;
+}
+
+main {
+    color: white;
+    font-size: 1.5em;
+}
